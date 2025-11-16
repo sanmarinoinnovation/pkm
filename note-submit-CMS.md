@@ -32,4 +32,5 @@ The standard onboarding process has to be implemented to ensure that your countr
 
 For details, see
 https://github.com/WorldHealthOrganization/tng-participant-template
-and https://worldhealthorganization.github.io/smart-trust/concepts_onboarding.html
+and
+https://worldhealthorganization.github.io/smart-trust/concepts_onboarding.html
